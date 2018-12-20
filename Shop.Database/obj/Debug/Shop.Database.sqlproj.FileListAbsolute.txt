@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Shop\Shop.Database\bin\Debug\Shop.Database.dacpac
+C:\Users\User\source\repos\Shop\Shop.Database\bin\Debug\Shop.Database.dll
+C:\Users\User\source\repos\Shop\Shop.Database\bin\Debug\Shop.Database.pdb
+C:\Users\User\source\repos\Shop\Shop.Database\obj\Debug\Shop.Database.sqlprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\Shop.Database\obj\Debug\Shop.Database.dll
+C:\Users\User\source\repos\Shop\Shop.Database\obj\Debug\Shop.Database.pdb

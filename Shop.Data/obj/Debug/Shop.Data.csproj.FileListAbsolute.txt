@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\Shop.Data.dll
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\Shop.Data.pdb
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\Shop.Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\Shop.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\Shop.Data.dll
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\Shop.Data.pdb
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\Shop.Data.dll.config
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Shop\Shop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\Shop\Shop.Data\obj\Debug\Shop.Data.csproj.CopyComplete

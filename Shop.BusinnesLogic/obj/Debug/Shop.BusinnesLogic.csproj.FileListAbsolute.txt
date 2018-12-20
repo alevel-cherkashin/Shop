@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\Shop.BusinnesLogic.dll
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\Shop.BusinnesLogic.pdb
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\obj\Debug\Shop.BusinnesLogic.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\obj\Debug\Shop.BusinnesLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\obj\Debug\Shop.BusinnesLogic.dll
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\obj\Debug\Shop.BusinnesLogic.pdb
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\Shop.Data.dll
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\Shop.Data.pdb
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\Shop.Data.dll.config
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\Shop\Shop.BusinnesLogic\obj\Debug\Shop.BusinnesLogic.csproj.CopyComplete
